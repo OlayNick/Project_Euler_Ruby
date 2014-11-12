@@ -33,6 +33,7 @@ while arr2.last.size < 500
 end     	                       
 
 p arr.max
+
 #p arr2
 #p arr2.last
 #p arr2.last.size

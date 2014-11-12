@@ -1,6 +1,5 @@
 arr = []
 
-
 def fibonacci(n)
     	if n < 3
         	1

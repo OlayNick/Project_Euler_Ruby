@@ -14,7 +14,6 @@ end
 
 p factorial(100).to_s.split(//).inject(0) {|sum,n| Integer(n) + sum}
 
-
 # version 2
 p (1..100).inject(:*).to_s.split('').map {|x| x.to_i}.inject :+
 
